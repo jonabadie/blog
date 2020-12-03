@@ -1,0 +1,1 @@
+web: gunicorn schafer_blog.wsgi
